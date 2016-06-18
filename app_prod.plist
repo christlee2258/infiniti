@@ -4,14 +4,22 @@
 <dict>
     <key>items</key>
     <array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://114.112.86.77:3881/Infiniti/ios/InfinitiCRM.ipa</string>
+                </dict>
+                <dict>
 					<key>kind</key>
-					<string>software-package</string>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
 					<key>url</key>
-					<string>http://114.112.86.74:3881/Infiniti/ios/InfinitiCRM.ipa</string>
+					<string>http://114.112.86.77:3881/Infiniti/ios/80X80.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,21 +27,37 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://114.112.86.74:3881/Infiniti/ios/80X80.png</string>
+					<string>http://114.112.86.77:3881/Infiniti/ios/76X76.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://114.112.86.77:3881/Infiniti/ios/58X58.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://114.112.86.77:3881/Infiniti/ios/512X512.png</string>
 				</dict>
 			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.infiniti.crm.fix</string>
-				<key>bundle-version</key>
-				<string>1.2</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>InfinitiCRM</string>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.infiniti.crm</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>InfinitiCRM</string>
+            </dict>
 			</dict>
-		</dict>
-	</array>
-</dict>
+		</array>
+    </dict>
 </plist>
