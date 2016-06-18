@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.infiniti.crm</string>
+				<string>com.infiniti.crm.fix</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
