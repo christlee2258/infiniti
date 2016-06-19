@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://114.112.86.77:3881/Infiniti/ios/InfinitiCRM.ipa</string>
+                    <string>http://115.159.89.190:8080/Infiniti/ios/InfinitiCRM.ipa</string>
                 </dict>
                 <dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://114.112.86.77:3881/Infiniti/ios/80X80.png</string>
+					<string>http://115.159.89.190:8080/Infiniti/ios/80X80.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://114.112.86.77:3881/Infiniti/ios/76X76.png</string>
+					<string>http://115.159.89.190:8080/Infiniti/ios/76X76.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://114.112.86.77:3881/Infiniti/ios/58X58.png</string>
+					<string>http://115.159.89.190:8080/Infiniti/ios/58X58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://114.112.86.77:3881/Infiniti/ios/512X512.png</string>
+					<string>http://115.159.89.190:8080/Infiniti/ios/512X512.png</string>
 				</dict>
 			</array>
             <key>metadata</key>
